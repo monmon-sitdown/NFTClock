@@ -2,6 +2,8 @@
 
 DynamicClockNFT is an ERC-721 non-fungible token (NFT) that displays a dynamic clock. The clock animation is rendered using SVG and continuously updates. The NFT contract has been deployed to the Sepolia test network.
 
+(The Basic NFT was deployed at 0x6997EA113CC4E9D80DFE24aFe5B284aCa097cdf5 on Sepolia testnet. You can also feel free to follow the steps below to get one by changing the contract address.)
+
 ## Contract Information
 
 - **Contract Name**: DynamicClockNFT
